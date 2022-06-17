@@ -1,2 +1,0 @@
-# django-pro
-project django
